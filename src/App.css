@@ -1,0 +1,77 @@
+.nabBar {
+    background-color: #f5d03e;
+    padding: 10px 15px;
+}
+
+.Head-text {
+    color: white;
+    padding-left: 10px;
+    /* align-items: center; */
+}
+
+h1,
+p {
+    margin: 0;
+}
+
+p {
+    padding: 2px 0;
+}
+
+.Card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    margin-top: 30px ;
+
+}
+
+.card-Body {
+    width: 400px;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.384);
+    height: 100%;
+    padding: 10px;
+}
+
+
+.TextTilte {
+    border: none;
+    padding: 7px;
+}
+
+.TextArea {
+    border: none;
+    padding: 10px 7px;
+    min-height: 130px;
+}
+
+.submitBtn{
+    background-color: transparent;
+    border: none;
+    color: #f7b61e;
+    font-size  : 25px;
+
+}
+.box{
+    width: 250px;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 15px 0px rgba(0, 0, 0, 0.384);
+    height: 100%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.DelBtn{
+    background-color: transparent;
+    border: none;
+    color: #f7b61e;
+    font-size  : 25px;
+}
+    footer {
+        background-color: #f7b61e;
+        position: fixed;
+        bottom: 2px;
+        width: 100%;
+    }
